@@ -46,7 +46,7 @@ class Block {
     }
 }
 
-public class Practice {
+public class BlockChainDemo {
     public static void main(String[] args) {
         // Step 1: Create blocks and link them
         Block genesisBlock = new Block(0, "Genesis Block", "0");
